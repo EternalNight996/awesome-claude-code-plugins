@@ -380,6 +380,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 
 ### Thinking & Knowledge Management
 - [thinking-tree](https://github.com/CoralLips/thinking-tree)
+- [memory-eternal](https://github.com/EternalNight996/memory-eternal) — Local-first long-term memory for Claude Code: agents propose, humans approve, and only approved cards are recalled (SQLite FTS5/BM25, zero model calls). Ships an MCP server, hooks and a skill; one vault shared with Codex and Cursor.
 
 ### Companion Apps & Tools
 - [Onepilot](https://onepilotapp.com) — iOS app to SSH into remote servers and run Claude Code from your phone
